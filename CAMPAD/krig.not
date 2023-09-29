@@ -1,0 +1,48 @@
+                             KRIGING RUN PARAMETERS                 Oct 25, 2022
+
+
+
+
+ MODEL NAME : mint.mdl
+
+ CONSTRAINT VALUES USED
+
+   Data Constraints
+     Unconstrained
+
+   Model Constraints
+     Unconstrained
+
+SEARCH PARAMETERS
+
+     ROTATION CONVENTION
+           Surpac ZXY LRL
+
+     ANGLES OF ROTATION
+           First Axis               0.00
+           Second Axis              0.00
+           Third Axis               0.00
+
+     ANISOTROPY FACTORS
+           Semi_major axis          1.00
+           Minor axis               1.00
+
+ OTHER INTERPOLATION PARAMETERS
+
+      Max search distance of major axis           100.000
+      Max vertical search distance                200.000
+      Maximum number of informing samples      15
+      Minimum number of informing samples      3
+
+ KRIGING TYPE              = ORDINARY KRIGING
+
+VARIOGRAM MODEL = Spherical
+      Cumulative sill      1.109362
+      Nugget effect        0.442190
+
+      MODEL    C VALUE      RANGE    AZIMUTH     PLUNGE        DIP    SEMI_MAJOR_RATIO    MINOR_RATIO
+          1   0.667172    500.000      0.000      0.000      0.000               1.000          1.000
+
+ BLOCK VARIANCE 0.656525
+
+                                                                     Page 1 of 1

@@ -1,0 +1,37 @@
+                           INVERSE DISTANCE PARAMETERS              Nov 12, 2022
+
+
+
+
+ MODEL NAME : mint.mdl
+
+ CONSTRAINT VALUES USED
+
+   Data Constraints
+     Unconstrained
+
+   Model Constraints
+     Unconstrained
+
+SEARCH PARAMETERS
+
+     ROTATION CONVENTION
+           Surpac ZXY LRL
+
+     ANGLES OF ROTATION
+           First Axis               0.00
+           Second Axis              0.00
+           Third Axis               0.00
+
+     ANISOTROPY FACTORS
+           Semi_major axis          1.00
+           Minor axis               1.00
+
+ OTHER INTERPOLATION PARAMETERS
+
+      Max search distance of major axis           100.000
+      Max vertical search distance                 20.000
+      Maximum number of informing samples      15
+      Minimum number of informing samples      3
+
+                                                                     Page 1 of 1

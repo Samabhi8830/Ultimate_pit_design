@@ -1,0 +1,17 @@
+Gemcom Software International                                       Nov 15, 2022
+                             Solid validation report                            
+                                                                                
+Layer:dtm.str
+                                                                                
+Object  Trisolation    Valid  Open/closed     Connected  Duplicate (removed)  Invalid Edges  Intersecting  Reversed  
+-------------------------------------------------------------------------------------------------------------------
+     1            1  Invalid         Open     Connected                    0              0             0         0  
+     1            2  Invalid         Open  Disconnected                   32              7            22         0  
+     1            3  Invalid         Open  Disconnected                   26             12            10         0  
+     1            4  Invalid       Closed  Disconnected                   24             12            13         0  
+     1            5  Invalid       Closed  Disconnected                   22              4            20         0  
+     1            6  Invalid         Open  Disconnected                   27              3            21         0  
+     1            7  Invalid         Open  Disconnected                   31              5            22         0  
+                                                 Totals                  162             43           108         0  
+                                                                                
+Solid validation report                                                      1/1
